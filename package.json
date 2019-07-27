@@ -1,0 +1,25 @@
+{
+  "name": "visual-shopping-list",
+  "version": "1.0.0",
+  "description": "app to take a shopping list and convert it into a picture-based list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sino/visual-shopping-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sino/visual-shopping-list/issues"
+  },
+  "homepage": "https://github.com/Sino/visual-shopping-list#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "iterm2-image": "^1.0.1",
+    "request": "^2.88.0",
+    "yargs": "^13.3.0"
+  }
+}
