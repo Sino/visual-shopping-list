@@ -30,7 +30,7 @@ function getImage(url) {
             }
         });
     } else {
-        console.log(image);
+        console.log(url);
     }
 }
 
